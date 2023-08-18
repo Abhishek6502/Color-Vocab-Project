@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Firststep",
+			"path": "../../Desktop/Firststep"
+		},
+		{
+			"name": "love web cource",
+			"path": "../../love web cource"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Firststep"
+	}
+}
